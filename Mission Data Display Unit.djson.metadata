@@ -1,0 +1,33 @@
+{
+  "SimHubVersion": "9.1.29",
+  "Category": null,
+  "Title": "Mission Data Display ACC Edition",
+  "Description": "v1.7 Beta",
+  "Author": "Leron T",
+  "ScreenCount": 5.0,
+  "InGameScreensIndexs": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "IdleScreensIndexs": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "MainPreviewIndex": 0,
+  "IsOverlay": false,
+  "Width": 1130.0,
+  "Height": 640.0,
+  "OverlaySizeWarning": true,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": [
+    3,
+    4
+  ]
+}
