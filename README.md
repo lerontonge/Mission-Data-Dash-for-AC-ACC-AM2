@@ -5,11 +5,11 @@ A simhub dashboard for  Assetto Corsa,  Assetto Corsa Competizione, Automobilist
 
 <h2 align="center"> Race Screen </h2>
 
-![Race Screen](https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/blob/main/Screenshots/Race.png)
+![Race Screen](https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/blob/main/Screenshots/Race-536.jpeg)
 
 <h2 align="center"> Timing Screen </h2>
 
-![Timing Screen](https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/blob/main/Screenshots/Timing%20Screen.png)
+![Timing Screen](https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/blob/main/Screenshots/Timing-1849.jpeg)
 
 <h2 align="center"> Track Map and Standings </h2>
 
