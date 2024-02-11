@@ -4,8 +4,12 @@ A simhub dashboard for  Assetto Corsa,  Assetto Corsa Competizione, Automobilist
 <h1 align="center"> Screenshots </h1>
 
 <h2 align="center"> Race Screen </h2>
+
 <p align="center>
+  
 ![Race Screen](https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/blob/main/Screenshots/Race-536.jpeg)
+
+</p>
 
 <h2 align="center"> Timing Screen </h2>
 
@@ -18,4 +22,3 @@ A simhub dashboard for  Assetto Corsa,  Assetto Corsa Competizione, Automobilist
 <h2 align="center"> Track Map and Standings </h2>
 
 ![Track Map and Standings](https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/blob/main/Screenshots/TrackMapAndStandings-1661.jpeg)
-</p>
