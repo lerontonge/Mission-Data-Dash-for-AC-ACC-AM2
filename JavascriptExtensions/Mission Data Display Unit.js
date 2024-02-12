@@ -108,6 +108,9 @@ function ld_GetPlayerBestColor() {
   }
 }
 
+
+//Get Driver Name
+
 function ld_GetDriverName(position) {
   const driverName =
     !settings || typeof settings.driverName === 'undefined'
@@ -121,6 +124,9 @@ function ld_GetDriverName(position) {
   }
 }
 
+
+// Get Driver Class
+
 function ld_getDriverClassIndex(position) {
   var driverClassName = drivercarclass(position);
   for (i = 1; i <= getleaderboardcarclasscount(); i++) {
@@ -130,6 +136,10 @@ function ld_getDriverClassIndex(position) {
   }
   return driverClassIndex;
 }
+
+
+// Get Relative Position
+
 
 function ld_GetRelDriverName(relPosition) {
   // Data expected is 'Ahead_01', 'Behind_00'
