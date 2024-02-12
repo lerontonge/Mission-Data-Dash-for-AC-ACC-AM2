@@ -1,0 +1,3 @@
+About the Fonts...
+
+When installing this dash, make sure "Install SimHub Fonts" is checked. If youre still having trouble loading the fonts for this Dash, go to your simhub install directory then open.\DashTemplates\Mission Data Display Unit\_SHFonts, inside you will see the Arame-Mono.ttf file. Double Click it then "Install" to install the font. Restart simhub then try loading the dash again. 

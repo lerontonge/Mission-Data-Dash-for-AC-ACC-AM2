@@ -32,3 +32,4 @@ All notable changes to this project will be documented in this file.
 
 
 [1.0.0-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.0-beta
+[1.0.1-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.1-beta
