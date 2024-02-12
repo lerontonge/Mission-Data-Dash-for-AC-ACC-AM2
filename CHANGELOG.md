@@ -17,12 +17,12 @@ All notable changes to this project will be documented in this file.
 
 - Fixed janky looking PSI, Temps, and Grip Levels on tyres app.
 - Removed extra digit from Estimated lap time from 00:00.000 to 00:00.00.
-- Realigned a lot of elements. You shouldnt notice any shifting from screen to screen. 
+- Realigned a lot of elements. You shouldn't notice any shifting from screen to screen.
 
 ### Changed
 
 - RPM changes color from green to red the higher the RPM.
-- Reduced the precison on the PSI from 00.00 to 00.0 and reduced the update value to 1000ms.
+- Reduced the precision on the PSI from 00.00 to 00.0 and reduced the update value to 1000ms.
 - Took the edge off the 4 yellow shift indicators.
 - Reduced the update time on Gap to Ahead, Behind and Gap to Leader to 1000ms.
 
@@ -30,6 +30,16 @@ All notable changes to this project will be documented in this file.
 
 - Nothing
 
+## [1.0.2-beta]
+
+### Changed
+
+- So i finally got the PSI down to 1 decimal place after realizing that it was a switch inside simhub keeping it at 2 places.
+
+### Fixed
+
+- Fixed some typos in the changelog.
 
 [1.0.0-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.0-beta
 [1.0.1-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.1-beta
+[1.0.2-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.2-beta
