@@ -21,9 +21,9 @@ function test() {
   return 'Passed';
 }
 
-// const json_settings = readtextfile(
-//   './JavascriptExtensions/Lovely-Dashboard_settings.json'
-// );
+/*const json_settings = readtextfile(
+  './JavascriptExtensions/Lovely-Dashboard_settings.json'
+);*/
 
 const folderName = $prop('variable.folderName');
 
