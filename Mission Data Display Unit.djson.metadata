@@ -9,13 +9,15 @@
     0,
     1,
     2,
-    3
+    3,
+    4
   ],
   "IdleScreensIndexs": [
     0,
     1,
     2,
-    3
+    3,
+    4
   ],
   "MainPreviewIndex": 0,
   "IsOverlay": false,
@@ -24,7 +26,5 @@
   "OverlaySizeWarning": true,
   "MetadataVersion": 2.0,
   "EnableOnDashboardMessaging": true,
-  "PitScreensIndexs": [
-    3
-  ]
+  "PitScreensIndexs": []
 }
