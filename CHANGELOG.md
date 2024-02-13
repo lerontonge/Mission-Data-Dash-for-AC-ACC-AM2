@@ -55,6 +55,32 @@ All notable changes to this project will be documented in this file.
 - Pit Service Screen still optimized for iRacing. May fix it, or swap it out for something else.
 - Optimise, then add more features.
 
+
+
+
+## [1.0.3-beta]
+
+### Added
+
+- Brake temp indicators turn on when dash detects ACC.
+- Added heat color change to tyres and brakes according to Coach Dave Academy optimum temps in ACC.
+
+### Changed
+
+- Started Optimizing for ACC.
+  
+### Removed
+
+- I could not find a metric for ACC Tyre wear in the telemetry data, so i scrapped it. (the % to be exact).
+
+### Todo
+
+- Figure out how to fix/implement steering input.
+- Pit Service Screen still optimized for iRacing. May fix it, or swap it out for something else.
+- Continue to optimize, then add more features.
+
+
 [1.0.0-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.0-beta
 [1.0.1-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.1-beta
 [1.0.2-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.2-beta
+[1.0.3-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.3-beta
