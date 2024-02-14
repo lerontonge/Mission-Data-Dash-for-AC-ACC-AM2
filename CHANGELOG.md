@@ -62,12 +62,14 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Brake temp indicators turn on when dash detects ACC.
+- Brake temp indicators visible when dash detects ACC. AC has no brake temp data.
 - Added heat color change to tyres and brakes according to Coach Dave Academy optimum temps in ACC.
+- Added a Suspension Travel graphic to the tyres app(AC and ACC for now. Other sims calculate suspention compression differently so it till take time). Helpful when you record your session on simhub and replay it.
 
 ### Changed
 
 - Started Optimizing for ACC.
+- Fattened the tyred up a little bit. 
   
 ### Removed
 
@@ -78,6 +80,7 @@ All notable changes to this project will be documented in this file.
 - Figure out how to fix/implement steering input.
 - Pit Service Screen still optimized for iRacing. May fix it, or swap it out for something else.
 - Continue to optimize, then add more features.
+- Implement the above on other sims. 
 
 
 [1.0.0-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.0-beta
