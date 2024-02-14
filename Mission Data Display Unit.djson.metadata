@@ -26,5 +26,7 @@
   "OverlaySizeWarning": true,
   "MetadataVersion": 2.0,
   "EnableOnDashboardMessaging": true,
-  "PitScreensIndexs": []
+  "PitScreensIndexs": [
+    4
+  ]
 }

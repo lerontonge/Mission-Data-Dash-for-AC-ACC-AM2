@@ -82,8 +82,24 @@ All notable changes to this project will be documented in this file.
 - Continue to optimize, then add more features.
 - Implement the above on other sims. 
 
+# [1.0.4-beta]
+
+
+### Fixed
+
+- Tweaked some wonky graphics here and there. 
+
+### Added
+
+- Re-implemented tyre wear. At first, I didn't understand how tyre wear worked in AC, and I found out it was actually grip level. So it would start out at somewhere around 97% then it would ramp up to 100% as the tyres heated up, and the grip level increased, then as you do more laps the grip level would then decrease until you need a tyre change. 
+
+### Changed
+
+- Changed the way tyres were represented graphically. I used linear gauges with the raw values instead of rectangles with complicated formulas. Simpler. I'm a simple guy. 
+
 
 [1.0.0-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.0-beta
 [1.0.1-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.1-beta
 [1.0.2-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.2-beta
 [1.0.3-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.3-beta
+[1.0.4-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.4-beta
