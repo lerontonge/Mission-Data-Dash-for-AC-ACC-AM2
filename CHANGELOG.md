@@ -75,14 +75,9 @@ All notable changes to this project will be documented in this file.
 
 - I could not find a metric for ACC Tyre wear in the telemetry data, so i scrapped it. (the % to be exact).
 
-### Todo
 
-- Figure out how to fix/implement steering input.
-- Pit Service Screen still optimized for iRacing. May fix it, or swap it out for something else.
-- Continue to optimize, then add more features.
-- Implement the above on other sims. 
 
-# [1.0.4-beta]
+## [1.0.4-beta Unreleased]
 
 
 ### Fixed
@@ -91,15 +86,41 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 
-- Re-implemented tyre wear. At first, I didn't understand how tyre wear worked in AC, and I found out it was actually grip level. So it would start out at somewhere around 97% then it would ramp up to 100% as the tyres heated up, and the grip level increased, then as you do more laps the grip level would then decrease until you need a tyre change. 
+- Re-implemented tyre wear. At first, I didn't understand how tyre wear worked in AC, and I found out it was actually grip level. So it would start out at somewhere around 97% then it would ramp up to 100% as the tyres heated up, and the grip level increased, then as you do more laps the grip level would then decrease until you need a tyre change. Game/simhub doesnt output ACC tyre wear data. Which i found weird. It is what it is tho. 
 
 ### Changed
 
 - Changed the way tyres were represented graphically. I used linear gauges with the raw values instead of rectangles with complicated formulas. Simpler. I'm a simple guy. 
+
+[1.0.5-beta]
+
+### Fixed
+
+- See above
+
+### Added
+
+- A fuel gauge. Coz why not?
+- Tyres app now shows slippage on individual tyres. 
+- Tyres app now blinks when ABS is active on individual tyres.
+
+### Changed
+
+- Changed how the suspension is represented. Flipped the graphic and some numbers around because its more aestitically pleasing to see the compression going downwards. When you record your session with simhub and replay the session you can "see" the cornering. Suspension compresses in the front when heavy braking and unloads the rear. When turning left the right side compresses and the left side unloads. When accelerating you can see the front unloading and the rear compresses. You know. As with physics and all. 
+
+### Todo
+
+- Closer to figuring out how to fix/implement steering input.
+- Continue to optimize/tweak, then add more features.
+- Implement the above on other sims.
+- Add ticks to fuel gauge. 
+- Take a break from this dash and focus on getting my LFM license. 
+
 
 
 [1.0.0-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.0-beta
 [1.0.1-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.1-beta
 [1.0.2-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.2-beta
 [1.0.3-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.3-beta
-[1.0.4-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.4-beta
+[1.0.4-beta Unreleased]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.4-beta
+[1.0.5-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.5-beta
