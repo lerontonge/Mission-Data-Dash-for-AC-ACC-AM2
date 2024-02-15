@@ -1,0 +1,27 @@
+FL1
+//Minimum
+if([DataCorePlugin.CurrentGame]=='AssettoCorsaCompetizione',([GameRawData.Physics.RideHeight01]*100),([GameRawData.Physics.RideHeight01]*100)-([GameRawData.Physics.SuspensionTravel01]*100))
+
+//Maximum
+if([DataCorePlugin.CurrentGame] == 'AssettoCorsaCompetizione', 50, 30)
+
+FR2
+//Min
+if([DataCorePlugin.CurrentGame]=='AssettoCorsaCompetizione',([GameRawData.Physics.RideHeight01]*100),([GameRawData.Physics.RideHeight01]*100)-([GameRawData.Physics.SuspensionTravel02]*100))
+
+//Max
+if([DataCorePlugin.CurrentGame] == 'AssettoCorsaCompetizione', 50, 30)
+
+RL3
+//Max
+if([DataCorePlugin.CurrentGame] == 'AssettoCorsaCompetizione', 50, 30)
+
+//Min
+if([DataCorePlugin.CurrentGame]=='AssettoCorsaCompetizione',([GameRawData.Physics.RideHeight01]*100),([GameRawData.Physics.RideHeight02]*100)-([GameRawData.Physics.SuspensionTravel03]*100))
+
+RR4
+//Min
+if([DataCorePlugin.CurrentGame]=='AssettoCorsaCompetizione',([GameRawData.Physics.RideHeight01]*100),([GameRawData.Physics.RideHeight02]*100)-([GameRawData.Physics.SuspensionTravel04]*100))
+
+//Max
+if([DataCorePlugin.CurrentGame] == 'AssettoCorsaCompetizione', 40, 30)

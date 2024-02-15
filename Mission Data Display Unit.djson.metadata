@@ -1,5 +1,5 @@
 {
-  "SimHubVersion": "9.1.30",
+  "SimHubVersion": "9.1.29",
   "Category": null,
   "Title": "Mission Data Display",
   "Description": "v1.0.0 Beta",
@@ -16,8 +16,7 @@
     0,
     1,
     2,
-    3,
-    4
+    3
   ],
   "MainPreviewIndex": 0,
   "IsOverlay": false,
