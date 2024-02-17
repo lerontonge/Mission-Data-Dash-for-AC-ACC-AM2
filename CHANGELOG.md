@@ -97,6 +97,7 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 
 - See above
+- Tweaked some graphical glitches
 
 ### Added
 
@@ -107,6 +108,7 @@ All notable changes to this project will be documented in this file.
 ### Changed
 
 - Changed how the suspension is represented. Flipped the graphic and some numbers around because its more aestitically pleasing to see the compression going downwards. When you record your session with simhub and replay the session you can "see" the cornering. Suspension compresses in the front when heavy braking and unloads the rear. When turning left the right side compresses and the left side unloads. When accelerating you can see the front unloading and the rear compresses. You know. As with physics and all. 
+
 
 ### Todo
 
