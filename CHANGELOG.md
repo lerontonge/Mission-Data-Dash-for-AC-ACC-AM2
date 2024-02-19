@@ -124,6 +124,14 @@ All notable changes to this project will be documented in this file.
 
 - Inputs
 
+### Todo
+
+- Clean up and polish.
+- Continue to optimize/tweak, then add more features.
+- Implement the above on other sims.
+- Add ticks to fuel gauge. 
+- Take a break from this dash and focus on getting my LFM license. 
+
 
 
 [1.0.0-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.0-beta
