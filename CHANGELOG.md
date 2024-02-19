@@ -118,6 +118,12 @@ All notable changes to this project will be documented in this file.
 - Add ticks to fuel gauge. 
 - Take a break from this dash and focus on getting my LFM license. 
 
+[1.0.6-beta]
+
+### Added
+
+- Inputs
+
 
 
 [1.0.0-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.0-beta
@@ -126,3 +132,4 @@ All notable changes to this project will be documented in this file.
 [1.0.3-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.3-beta
 [1.0.4-beta Unreleased]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.4-beta
 [1.0.5-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.5-beta
+[1.0.6-beta]: https://github.com/lerontonge/Mission-Data-Dash-for-AC-ACC-AM2/releases/tag/v1.0.6-beta
